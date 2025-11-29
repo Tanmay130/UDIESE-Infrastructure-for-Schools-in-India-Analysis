@@ -1,0 +1,149 @@
+State_Name,Total_Schools,Facility,Status,Count,Percentage_of_Total_Schools
+India,1471473,Electricity,Available,1377945,93.64392007192792
+Andaman and Nicobar Islands,408,Electricity,Available,383,93.87254901960785
+Andhra Pradesh,61317,Electricity,Available,61196,99.80266484009329
+Arunachal Pradesh,3229,Electricity,Available,2320,71.84886961907712
+Assam,55283,Electricity,Available,49566,89.6586654125138
+Bihar,94339,Electricity,Available,91956,97.47400332842197
+Chandigarh,207,Electricity,Available,207,100.0
+Chhattisgarh,56802,Electricity,Available,53768,94.65863878032464
+Dadra and Nagar Haveli and Daman and Diu,433,Electricity,Available,433,100.0
+Delhi,5556,Electricity,Available,5556,100.0
+Goa,1479,Electricity,Available,1479,100.0
+Gujarat,53355,Electricity,Available,53310,99.91565926342425
+Haryana,23494,Electricity,Available,23485,99.96169234698222
+Himachal Pradesh,17330,Electricity,Available,17227,99.40565493364109
+Jammu and Kashmir,24192,Electricity,Available,22127,91.46412037037037
+Jharkhand,44376,Electricity,Available,42415,95.58094465476835
+Karnataka,74859,Electricity,Available,74142,99.04219933474933
+Kerala,15757,Electricity,Available,15739,99.88576505680015
+Ladakh,961,Electricity,Available,794,82.6222684703434
+Lakshadweep,36,Electricity,Available,36,100.0
+Madhya Pradesh,122120,Electricity,Available,111320,91.15623976416639
+Maharashtra,108250,Electricity,Available,102683,94.85727482678983
+Manipur,4666,Electricity,Available,3262,69.90998714102015
+Meghalaya,14587,Electricity,Available,4475,30.678000959758688
+Mizoram,3974,Electricity,Available,3483,87.64469048817313
+Nagaland,2750,Electricity,Available,2347,85.34545454545454
+Odisha,61565,Electricity,Available,59987,97.43685535612767
+Puducherry,763,Electricity,Available,763,100.0
+Punjab,27281,Electricity,Available,27272,99.96701000696456
+Rajasthan,106302,Electricity,Available,98054,92.24097382927884
+Sikkim,1245,Electricity,Available,1231,98.87550200803213
+Tamil Nadu,57935,Electricity,Available,57770,99.71519806679899
+Telangana,43154,Electricity,Available,41845,96.9666774806507
+Tripura,4943,Electricity,Available,4109,83.1276552700789
+Uttar Pradesh,262358,Electricity,Available,229759,87.57461178999687
+Uttarakhand,22452,Electricity,Available,21611,96.25423124888651
+West Bengal,93715,Electricity,Available,91835,97.9939177292856
+Lakshadweep,36,Computer,Available,36,100.0
+Chandigarh,207,Computer,Available,206,99.51690821256038
+Andaman and Nicobar Islands,408,Computer,Available,346,84.80392156862744
+Dadra and Nagar Haveli and Daman and Diu,433,Computer,Available,421,97.22863741339492
+Ladakh,961,Computer,Available,579,60.24973985431842
+Puducherry,763,Computer,Available,759,99.47575360419397
+Goa,1479,Computer,Available,844,57.06558485463151
+Sikkim,1245,Computer,Available,1166,93.65461847389558
+Arunachal Pradesh,3229,Computer,Available,1539,47.66181480334469
+Manipur,4666,Computer,Available,1775,38.041148735533646
+Nagaland,2750,Computer,Available,2498,90.83636363636364
+Meghalaya,14587,Computer,Available,2869,19.668197710289984
+Mizoram,3974,Computer,Available,3049,76.72370407649723
+Tripura,4943,Computer,Available,3289,66.53853934857375
+Delhi,5556,Computer,Available,5553,99.94600431965442
+Jammu and Kashmir,24192,Computer,Available,10417,43.05968915343915
+Himachal Pradesh,17330,Computer,Available,13496,77.87651471436816
+Kerala,15757,Computer,Available,15683,99.53036745573397
+Uttarakhand,22452,Computer,Available,20504,91.32371280954926
+Haryana,23494,Computer,Available,22860,97.30143866519111
+West Bengal,93715,Computer,Available,23492,25.067491863629087
+Bihar,94339,Computer,Available,23750,25.17516615609663
+Punjab,27281,Computer,Available,27015,99.02496242806349
+Jharkhand,44376,Computer,Available,33718,75.982513070128
+Chhattisgarh,56802,Computer,Available,35610,62.69145452624908
+Telangana,43154,Computer,Available,37095,85.95958659683922
+Karnataka,74859,Computer,Available,41662,55.65396278336606
+Assam,55283,Computer,Available,43515,78.71316679630266
+Odisha,61565,Computer,Available,47241,76.73353366360757
+Andhra Pradesh,61317,Computer,Available,48833,79.64023027871553
+Gujarat,53355,Computer,Available,52203,97.84087714366039
+Tamil Nadu,57935,Computer,Available,53676,92.64865797876931
+Rajasthan,106302,Computer,Available,56702,53.34048277548871
+Madhya Pradesh,122120,Computer,Available,72323,59.22289551261055
+Maharashtra,108250,Computer,Available,89346,82.53672055427252
+Uttar Pradesh,262358,Computer,Available,157798,60.14605996386617
+India,1471473,Computer,Available,951868,64.68810504847863
+India,1471473,Electricity,Functional,1352061,91.88486638898573
+Andaman and Nicobar Islands,408,Electricity,Functional,376,92.15686274509804
+Andhra Pradesh,61317,Electricity,Functional,61103,99.65099401471043
+Arunachal Pradesh,3229,Electricity,Functional,2013,62.341282130690615
+Assam,55283,Electricity,Functional,49092,88.8012589765389
+Bihar,94339,Electricity,Functional,91579,97.07438069091256
+Chandigarh,207,Electricity,Functional,207,100.0
+Chhattisgarh,56802,Electricity,Functional,51657,90.94222034435407
+Dadra and Nagar Haveli and Daman and Diu,433,Electricity,Functional,433,100.0
+Delhi,5556,Electricity,Functional,5556,100.0
+Goa,1479,Electricity,Functional,1479,100.0
+Gujarat,53355,Electricity,Functional,53297,99.89129416174679
+Haryana,23494,Electricity,Functional,23483,99.95317953520048
+Himachal Pradesh,17330,Electricity,Functional,17163,99.03635314483554
+Jammu and Kashmir,24192,Electricity,Functional,21093,87.18998015873017
+Jharkhand,44376,Electricity,Functional,41115,92.651433207139
+Karnataka,74859,Electricity,Functional,73570,98.27809615410304
+Kerala,15757,Electricity,Functional,15717,99.746144570667
+Ladakh,961,Electricity,Functional,734,76.37877211238293
+Lakshadweep,36,Electricity,Functional,36,100.0
+Madhya Pradesh,122120,Electricity,Functional,107204,87.78578447428758
+Maharashtra,108250,Electricity,Functional,96200,88.86836027713626
+Manipur,4666,Electricity,Functional,2952,63.26618088298328
+Meghalaya,14587,Electricity,Functional,4095,28.072941660382533
+Mizoram,3974,Electricity,Functional,3193,80.34725717161551
+Nagaland,2750,Electricity,Functional,2150,78.18181818181819
+Odisha,61565,Electricity,Functional,59665,96.91383091041989
+Puducherry,763,Electricity,Functional,763,100.0
+Punjab,27281,Electricity,Functional,27261,99.92668890436568
+Rajasthan,106302,Electricity,Functional,97075,91.3200127937386
+Sikkim,1245,Electricity,Functional,1208,97.0281124497992
+Tamil Nadu,57935,Electricity,Functional,57699,99.59264693190644
+Telangana,43154,Electricity,Functional,41059,95.14529359966632
+Tripura,4943,Electricity,Functional,3952,79.95144648998583
+Uttar Pradesh,262358,Electricity,Functional,225711,86.03168190030416
+Uttarakhand,22452,Electricity,Functional,21173,94.303402814894
+West Bengal,93715,Electricity,Functional,90998,97.10078429280264
+Lakshadweep,36,Computer,Functional,35,97.22222222222221
+Chandigarh,207,Computer,Functional,206,99.51690821256038
+Andaman and Nicobar Islands,408,Computer,Functional,332,81.37254901960785
+Dadra and Nagar Haveli and Daman and Diu,433,Computer,Functional,414,95.61200923787528
+Ladakh,961,Computer,Functional,537,55.87929240374609
+Puducherry,763,Computer,Functional,751,98.42726081258192
+Goa,1479,Computer,Functional,824,55.71331981068289
+Sikkim,1245,Computer,Functional,1118,89.79919678714859
+Arunachal Pradesh,3229,Computer,Functional,1357,42.0253948590895
+Manipur,4666,Computer,Functional,1642,35.19074153450493
+Nagaland,2750,Computer,Functional,2162,78.61818181818182
+Meghalaya,14587,Computer,Functional,2552,17.495029821073558
+Mizoram,3974,Computer,Functional,2573,64.74584801207851
+Tripura,4943,Computer,Functional,3015,60.99534695529031
+Delhi,5556,Computer,Functional,5553,99.94600431965442
+Jammu and Kashmir,24192,Computer,Functional,8841,36.54513888888889
+Himachal Pradesh,17330,Computer,Functional,12505,72.15810732833238
+Kerala,15757,Computer,Functional,15618,99.11785238306784
+Uttarakhand,22452,Computer,Functional,18857,83.98806342419384
+Haryana,23494,Computer,Functional,22457,95.58610709117221
+West Bengal,93715,Computer,Functional,22721,24.24478471962866
+Bihar,94339,Computer,Functional,22410,23.754756781394757
+Punjab,27281,Computer,Functional,26546,97.30581723543858
+Jharkhand,44376,Computer,Functional,19369,43.64746709933297
+Chhattisgarh,56802,Computer,Functional,21685,38.1764726594134
+Telangana,43154,Computer,Functional,35048,81.21610974648932
+Karnataka,74859,Computer,Functional,37939,50.68061288555818
+Assam,55283,Computer,Functional,36848,66.65340158819166
+Odisha,61565,Computer,Functional,43793,71.13294891578008
+Andhra Pradesh,61317,Computer,Functional,46909,76.50243814928976
+Gujarat,53355,Computer,Functional,51252,96.05847624402587
+Tamil Nadu,57935,Computer,Functional,53080,91.61991887460084
+Rajasthan,106302,Computer,Functional,49967,47.00476002332976
+Madhya Pradesh,122120,Computer,Functional,66314,54.30232558139535
+Maharashtra,108250,Computer,Functional,82992,76.66697459584296
+Uttar Pradesh,262358,Computer,Functional,134462,51.2513435839578
+India,1471473,Computer,Functional,852684,57.947648376830564

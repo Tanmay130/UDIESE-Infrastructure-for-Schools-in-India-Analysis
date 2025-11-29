@@ -1,0 +1,297 @@
+State_Name,Management,Total_Schools,Water_Source,School_Count
+India,Government,1013322,Tap,590220
+Andaman and Nicobar Islands,Government,335,Tap,298
+Andhra Pradesh,Government,44886,Tap,31869
+Arunachal Pradesh,Government,2558,Tap,1971
+Assam,Government,44741,Tap,25824
+Bihar,Government,76320,Tap,37026
+Chandigarh,Government,118,Tap,118
+Chhattisgarh,Government,48827,Tap,16167
+Dadra and Nagar Haveli and Daman and Diu,Government,361,Tap,340
+Delhi,Government,2681,Tap,2672
+Goa,Government,780,Tap,771
+Gujarat,Government,34638,Tap,28758
+Haryana,Government,14338,Tap,12097
+Himachal Pradesh,Government,14725,Tap,14569
+Jammu and Kashmir,Government,18785,Tap,16243
+Jharkhand,Government,35788,Tap,10143
+Karnataka,Government,48844,Tap,43332
+Kerala,Government,4808,Tap,2398
+Ladakh,Government,812,Tap,520
+Lakshadweep,Government,36,Tap,35
+Madhya Pradesh,Government,92250,Tap,19212
+Maharashtra,Government,64884,Tap,46220
+Manipur,Government,2952,Tap,706
+Meghalaya,Government,7789,Tap,3735
+Mizoram,Government,2617,Tap,1829
+Nagaland,Government,1936,Tap,1104
+Odisha,Government,48625,Tap,29942
+Puducherry,Government,419,Tap,403
+Punjab,Government,19243,Tap,12875
+Rajasthan,Government,70155,Tap,32728
+Sikkim,Government,857,Tap,845
+Tamil Nadu,Government,37626,Tap,34991
+Telangana,Government,30057,Tap,22631
+Tripura,Government,4187,Tap,2539
+Uttar Pradesh,Government,137172,Tap,76455
+Uttarakhand,Government,16018,Tap,14580
+West Bengal,Government,82154,Tap,44274
+India,Private,339583,Tap,245498
+Andaman and Nicobar Islands,Private,71,Tap,71
+Andhra Pradesh,Private,15473,Tap,12658
+Arunachal Pradesh,Private,571,Tap,511
+Assam,Private,6480,Tap,3563
+Bihar,Private,11274,Tap,8340
+Chandigarh,Private,82,Tap,82
+Chhattisgarh,Private,7382,Tap,4519
+Dadra and Nagar Haveli and Daman and Diu,Private,63,Tap,51
+Delhi,Private,2637,Tap,2611
+Goa,Private,141,Tap,140
+Gujarat,Private,13190,Tap,11804
+Haryana,Private,8499,Tap,7342
+Himachal Pradesh,Private,2603,Tap,2504
+Jammu and Kashmir,Private,5359,Tap,5020
+Jharkhand,Private,1707,Tap,1177
+Karnataka,Private,19105,Tap,17055
+Kerala,Private,3018,Tap,1604
+Ladakh,Private,111,Tap,75
+Lakshadweep,Private,0,Tap,0
+Madhya Pradesh,Private,28212,Tap,16830
+Maharashtra,Private,18746,Tap,14779
+Manipur,Private,1030,Tap,573
+Meghalaya,Private,2135,Tap,1096
+Mizoram,Private,1068,Tap,903
+Nagaland,Private,814,Tap,522
+Odisha,Private,6107,Tap,5014
+Puducherry,Private,311,Tap,280
+Punjab,Private,7589,Tap,6561
+Rajasthan,Private,33548,Tap,26931
+Sikkim,Private,372,Tap,367
+Tamil Nadu,Private,11890,Tap,10895
+Telangana,Private,12474,Tap,9885
+Tripura,Private,485,Tap,370
+Uttar Pradesh,Private,104508,Tap,61754
+Uttarakhand,Private,5352,Tap,4821
+West Bengal,Private,7176,Tap,4790
+India,Government,1013322,HandPump,354817
+Andaman and Nicobar Islands,Government,335,HandPump,2
+Andhra Pradesh,Government,44886,HandPump,8103
+Arunachal Pradesh,Government,2558,HandPump,247
+Assam,Government,44741,HandPump,14725
+Bihar,Government,76320,HandPump,38645
+Chandigarh,Government,118,HandPump,0
+Chhattisgarh,Government,48827,HandPump,31294
+Dadra and Nagar Haveli and Daman and Diu,Government,361,HandPump,17
+Delhi,Government,2681,HandPump,9
+Goa,Government,780,HandPump,3
+Gujarat,Government,34638,HandPump,4444
+Haryana,Government,14338,HandPump,1226
+Himachal Pradesh,Government,14725,HandPump,89
+Jammu and Kashmir,Government,18785,HandPump,639
+Jharkhand,Government,35788,HandPump,24238
+Karnataka,Government,48844,HandPump,2708
+Kerala,Government,4808,HandPump,493
+Ladakh,Government,812,HandPump,168
+Lakshadweep,Government,36,HandPump,1
+Madhya Pradesh,Government,92250,HandPump,66914
+Maharashtra,Government,64884,HandPump,12576
+Manipur,Government,2952,HandPump,49
+Meghalaya,Government,7789,HandPump,274
+Mizoram,Government,2617,HandPump,4
+Nagaland,Government,1936,HandPump,54
+Odisha,Government,48625,HandPump,16605
+Puducherry,Government,419,HandPump,9
+Punjab,Government,19243,HandPump,3863
+Rajasthan,Government,70155,HandPump,25847
+Sikkim,Government,857,HandPump,2
+Tamil Nadu,Government,37626,HandPump,1674
+Telangana,Government,30057,HandPump,5021
+Tripura,Government,4187,HandPump,928
+Uttar Pradesh,Government,137172,HandPump,58999
+Uttarakhand,Government,16018,HandPump,1070
+West Bengal,Government,82154,HandPump,33883
+India,Private,339583,HandPump,71127
+Andaman and Nicobar Islands,Private,71,HandPump,0
+Andhra Pradesh,Private,15473,HandPump,824
+Arunachal Pradesh,Private,571,HandPump,24
+Assam,Private,6480,HandPump,2292
+Bihar,Private,11274,HandPump,2627
+Chandigarh,Private,82,HandPump,0
+Chhattisgarh,Private,7382,HandPump,2661
+Dadra and Nagar Haveli and Daman and Diu,Private,63,HandPump,3
+Delhi,Private,2637,HandPump,9
+Goa,Private,141,HandPump,0
+Gujarat,Private,13190,HandPump,615
+Haryana,Private,8499,HandPump,535
+Himachal Pradesh,Private,2603,HandPump,61
+Jammu and Kashmir,Private,5359,HandPump,210
+Jharkhand,Private,1707,HandPump,469
+Karnataka,Private,19105,HandPump,728
+Kerala,Private,3018,HandPump,227
+Ladakh,Private,111,HandPump,18
+Lakshadweep,Private,0,HandPump,0
+Madhya Pradesh,Private,28212,HandPump,9598
+Maharashtra,Private,18746,HandPump,1722
+Manipur,Private,1030,HandPump,53
+Meghalaya,Private,2135,HandPump,136
+Mizoram,Private,1068,HandPump,3
+Nagaland,Private,814,HandPump,37
+Odisha,Private,6107,HandPump,905
+Puducherry,Private,311,HandPump,12
+Punjab,Private,7589,HandPump,643
+Rajasthan,Private,33548,HandPump,4322
+Sikkim,Private,372,HandPump,3
+Tamil Nadu,Private,11890,HandPump,393
+Telangana,Private,12474,HandPump,692
+Tripura,Private,485,HandPump,72
+Uttar Pradesh,Private,104508,HandPump,39163
+Uttarakhand,Private,5352,HandPump,433
+West Bengal,Private,7176,HandPump,1637
+India,Government,1013322,Well,11719
+Andaman and Nicobar Islands,Government,335,Well,7
+Andhra Pradesh,Government,44886,Well,156
+Arunachal Pradesh,Government,2558,Well,37
+Assam,Government,44741,Well,1963
+Bihar,Government,76320,Well,6
+Chandigarh,Government,118,Well,0
+Chhattisgarh,Government,48827,Well,114
+Dadra and Nagar Haveli and Daman and Diu,Government,361,Well,1
+Delhi,Government,2681,Well,0
+Goa,Government,780,Well,0
+Gujarat,Government,34638,Well,220
+Haryana,Government,14338,Well,117
+Himachal Pradesh,Government,14725,Well,5
+Jammu and Kashmir,Government,18785,Well,228
+Jharkhand,Government,35788,Well,398
+Karnataka,Government,48844,Well,1096
+Kerala,Government,4808,Well,1796
+Ladakh,Government,812,Well,7
+Lakshadweep,Government,36,Well,0
+Madhya Pradesh,Government,92250,Well,778
+Maharashtra,Government,64884,Well,1183
+Manipur,Government,2952,Well,54
+Meghalaya,Government,7789,Well,495
+Mizoram,Government,2617,Well,14
+Nagaland,Government,1936,Well,81
+Odisha,Government,48625,Well,154
+Puducherry,Government,419,Well,1
+Punjab,Government,19243,Well,16
+Rajasthan,Government,70155,Well,2131
+Sikkim,Government,857,Well,1
+Tamil Nadu,Government,37626,Well,129
+Telangana,Government,30057,Well,74
+Tripura,Government,4187,Well,114
+Uttar Pradesh,Government,137172,Well,34
+Uttarakhand,Government,16018,Well,18
+West Bengal,Government,82154,Well,294
+India,Private,339583,Well,4703
+Andaman and Nicobar Islands,Private,71,Well,0
+Andhra Pradesh,Private,15473,Well,53
+Arunachal Pradesh,Private,571,Well,23
+Assam,Private,6480,Well,249
+Bihar,Private,11274,Well,0
+Chandigarh,Private,82,Well,0
+Chhattisgarh,Private,7382,Well,37
+Dadra and Nagar Haveli and Daman and Diu,Private,63,Well,0
+Delhi,Private,2637,Well,0
+Goa,Private,141,Well,1
+Gujarat,Private,13190,Well,208
+Haryana,Private,8499,Well,103
+Himachal Pradesh,Private,2603,Well,14
+Jammu and Kashmir,Private,5359,Well,54
+Jharkhand,Private,1707,Well,13
+Karnataka,Private,19105,Well,207
+Kerala,Private,3018,Well,1080
+Ladakh,Private,111,Well,2
+Lakshadweep,Private,0,Well,0
+Madhya Pradesh,Private,28212,Well,628
+Maharashtra,Private,18746,Well,665
+Manipur,Private,1030,Well,46
+Meghalaya,Private,2135,Well,113
+Mizoram,Private,1068,Well,4
+Nagaland,Private,814,Well,62
+Odisha,Private,6107,Well,35
+Puducherry,Private,311,Well,6
+Punjab,Private,7589,Well,11
+Rajasthan,Private,33548,Well,652
+Sikkim,Private,372,Well,0
+Tamil Nadu,Private,11890,Well,122
+Telangana,Private,12474,Well,66
+Tripura,Private,485,Well,13
+Uttar Pradesh,Private,104508,Well,133
+Uttarakhand,Private,5352,Well,29
+West Bengal,Private,7176,Well,74
+India,Government,1013322,UnprotectedWell,2587
+Andaman and Nicobar Islands,Government,335,UnprotectedWell,10
+Andhra Pradesh,Government,44886,UnprotectedWell,21
+Arunachal Pradesh,Government,2558,UnprotectedWell,20
+Assam,Government,44741,UnprotectedWell,399
+Bihar,Government,76320,UnprotectedWell,2
+Chandigarh,Government,118,UnprotectedWell,0
+Chhattisgarh,Government,48827,UnprotectedWell,57
+Dadra and Nagar Haveli and Daman and Diu,Government,361,UnprotectedWell,0
+Delhi,Government,2681,UnprotectedWell,0
+Goa,Government,780,UnprotectedWell,5
+Gujarat,Government,34638,UnprotectedWell,23
+Haryana,Government,14338,UnprotectedWell,2
+Himachal Pradesh,Government,14725,UnprotectedWell,1
+Jammu and Kashmir,Government,18785,UnprotectedWell,192
+Jharkhand,Government,35788,UnprotectedWell,109
+Karnataka,Government,48844,UnprotectedWell,42
+Kerala,Government,4808,UnprotectedWell,17
+Ladakh,Government,812,UnprotectedWell,0
+Lakshadweep,Government,36,UnprotectedWell,0
+Madhya Pradesh,Government,92250,UnprotectedWell,355
+Maharashtra,Government,64884,UnprotectedWell,209
+Manipur,Government,2952,UnprotectedWell,1612
+Meghalaya,Government,7789,UnprotectedWell,364
+Mizoram,Government,2617,UnprotectedWell,13
+Nagaland,Government,1936,UnprotectedWell,29
+Odisha,Government,48625,UnprotectedWell,44
+Puducherry,Government,419,UnprotectedWell,0
+Punjab,Government,19243,UnprotectedWell,1
+Rajasthan,Government,70155,UnprotectedWell,227
+Sikkim,Government,857,UnprotectedWell,3
+Tamil Nadu,Government,37626,UnprotectedWell,8
+Telangana,Government,30057,UnprotectedWell,15
+Tripura,Government,4187,UnprotectedWell,170
+Uttar Pradesh,Government,137172,UnprotectedWell,12
+Uttarakhand,Government,16018,UnprotectedWell,6
+West Bengal,Government,82154,UnprotectedWell,184
+India,Private,339583,UnprotectedWell,261
+Andaman and Nicobar Islands,Private,71,UnprotectedWell,0
+Andhra Pradesh,Private,15473,UnprotectedWell,0
+Arunachal Pradesh,Private,571,UnprotectedWell,2
+Assam,Private,6480,UnprotectedWell,34
+Bihar,Private,11274,UnprotectedWell,2
+Chandigarh,Private,82,UnprotectedWell,0
+Chhattisgarh,Private,7382,UnprotectedWell,2
+Dadra and Nagar Haveli and Daman and Diu,Private,63,UnprotectedWell,0
+Delhi,Private,2637,UnprotectedWell,0
+Goa,Private,141,UnprotectedWell,0
+Gujarat,Private,13190,UnprotectedWell,13
+Haryana,Private,8499,UnprotectedWell,1
+Himachal Pradesh,Private,2603,UnprotectedWell,0
+Jammu and Kashmir,Private,5359,UnprotectedWell,5
+Jharkhand,Private,1707,UnprotectedWell,0
+Karnataka,Private,19105,UnprotectedWell,8
+Kerala,Private,3018,UnprotectedWell,4
+Ladakh,Private,111,UnprotectedWell,0
+Lakshadweep,Private,0,UnprotectedWell,0
+Madhya Pradesh,Private,28212,UnprotectedWell,14
+Maharashtra,Private,18746,UnprotectedWell,10
+Manipur,Private,1030,UnprotectedWell,6
+Meghalaya,Private,2135,UnprotectedWell,72
+Mizoram,Private,1068,UnprotectedWell,0
+Nagaland,Private,814,UnprotectedWell,6
+Odisha,Private,6107,UnprotectedWell,4
+Puducherry,Private,311,UnprotectedWell,0
+Punjab,Private,7589,UnprotectedWell,1
+Rajasthan,Private,33548,UnprotectedWell,30
+Sikkim,Private,372,UnprotectedWell,0
+Tamil Nadu,Private,11890,UnprotectedWell,0
+Telangana,Private,12474,UnprotectedWell,2
+Tripura,Private,485,UnprotectedWell,1
+Uttar Pradesh,Private,104508,UnprotectedWell,10
+Uttarakhand,Private,5352,UnprotectedWell,1
+West Bengal,Private,7176,UnprotectedWell,33

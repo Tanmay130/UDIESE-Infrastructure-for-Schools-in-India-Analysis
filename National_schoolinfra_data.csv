@@ -1,0 +1,251 @@
+Management_Detailed,Management_Group,School_Category,Gender_Type,Geography,Total_Schools,Electricity,Drinking Water,Toilets (All),Toilets (Boys),Toilets (Girls),Handwash,Medical Checkup,Ramps,Internet,Computers
+Department of Education,Government,Foundational and Preparatory,Boys,Rural,1286,1224,1276,1225,1225,0,1231,1148,1105,671,652
+Department of Education,Government,Foundational and Preparatory,Girls,Rural,1626,1564,1616,1555,0,1555,1574,1386,1429,836,834
+Department of Education,Government,Foundational and Preparatory,Co.Educational,Rural,422175,386510,417030,405253,388378,395110,403876,337132,366531,210257,180510
+Tribal Welfare Department,Government,Foundational and Preparatory,Boys,Rural,360,340,357,347,347,0,342,294,295,123,165
+Tribal Welfare Department,Government,Foundational and Preparatory,Girls,Rural,429,397,427,408,0,408,412,346,403,162,224
+Tribal Welfare Department,Government,Foundational and Preparatory,Co.Educational,Rural,25351,16836,24883,21397,18900,20132,22610,19960,20217,10387,9639
+Local Body,Government,Foundational and Preparatory,Boys,Rural,314,285,312,304,304,0,311,302,302,228,236
+Local Body,Government,Foundational and Preparatory,Girls,Rural,370,349,367,356,0,356,362,354,356,274,257
+Local Body,Government,Foundational and Preparatory,Co.Educational,Rural,123495,108661,122419,114999,103780,112091,120467,110196,105382,86679,63544
+Government Aided,Govt Aided,Foundational and Preparatory,Boys,Rural,111,103,110,108,108,0,109,100,73,77,46
+Government Aided,Govt Aided,Foundational and Preparatory,Girls,Rural,78,70,78,76,0,76,77,74,45,53,32
+Government Aided,Govt Aided,Foundational and Preparatory,Co.Educational,Rural,10866,8265,10050,9773,9432,9546,9085,9275,7293,5782,4376
+Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Boys,Rural,43,37,42,41,41,0,40,22,18,16,15
+Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Girls,Rural,62,50,62,61,0,61,58,27,23,31,22
+Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Co.Educational,Rural,52357,42217,51519,49197,48942,48498,48219,25638,25414,27957,23396
+Other State Govt. Managed,Government,Foundational and Preparatory,Boys,Rural,10,8,10,10,10,0,9,7,1,1,0
+Other State Govt. Managed,Government,Foundational and Preparatory,Co.Educational,Rural,30,30,30,28,27,28,30,16,21,12,12
+Partially Govt. Aided,Government,Foundational and Preparatory,Co.Educational,Rural,7,7,7,7,7,6,7,7,7,7,6
+Unrecognized,Other,Foundational and Preparatory,Boys,Rural,7,7,7,7,7,0,7,4,2,5,2
+Unrecognized,Other,Foundational and Preparatory,Girls,Rural,13,7,13,7,0,7,8,7,1,3,0
+Unrecognized,Other,Foundational and Preparatory,Co.Educational,Rural,6794,4494,6206,5307,5176,5177,5191,2086,1331,2443,2125
+Social Welfare Department,Government,Foundational and Preparatory,Boys,Rural,1,1,1,1,1,0,1,1,1,1,1
+Social Welfare Department,Government,Foundational and Preparatory,Girls,Rural,1,1,1,1,0,1,1,1,0,0,1
+Social Welfare Department,Government,Foundational and Preparatory,Co.Educational,Rural,535,367,533,487,460,474,453,397,379,236,221
+Kendriya Vidyalaya,Government,Foundational and Preparatory,Co.Educational,Rural,3,3,3,3,3,3,3,1,3,3,3
+Railway School,Other,Foundational and Preparatory,Co.Educational,Rural,2,2,2,2,2,2,2,1,2,1,1
+Central Tibetan School,Other,Foundational and Preparatory,Co.Educational,Rural,3,3,3,3,3,2,3,1,1,2,3
+Madrasa Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Boys,Rural,44,39,44,43,43,0,39,19,19,15,16
+Madrasa Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Girls,Rural,81,41,80,76,0,76,69,23,26,31,10
+Madrasa Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Co.Educational,Rural,6452,4117,6382,5606,5511,5419,5680,2178,2242,2185,948
+Madarsa Unrecognized,Other,Foundational and Preparatory,Boys,Rural,14,14,14,14,14,0,13,7,6,6,3
+Madarsa Unrecognized,Other,Foundational and Preparatory,Girls,Rural,1,1,1,1,0,1,1,0,0,0,0
+Madarsa Unrecognized,Other,Foundational and Preparatory,Co.Educational,Rural,122,99,120,115,113,109,100,31,20,31,22
+Madrasa Aided (Recognized),Govt Aided,Foundational and Preparatory,Co.Educational,Rural,5,3,5,4,4,4,5,2,1,3,1
+Other Central Govt./PSU Schools,Government,Foundational and Preparatory,Co.Educational,Rural,4,4,4,4,4,4,4,3,2,4,3
+Department of Education,Government,Middle,Boys,Rural,664,642,663,639,639,0,630,612,597,325,316
+Department of Education,Government,Middle,Girls,Rural,3083,2979,3070,2984,0,2983,2994,2580,2338,1871,1714
+Department of Education,Government,Middle,Co.Educational,Rural,197775,186198,195738,191057,184316,187362,190581,157595,176664,108530,87902
+Tribal Welfare Department,Government,Middle,Boys,Rural,142,131,141,133,133,0,135,113,101,64,49
+Tribal Welfare Department,Government,Middle,Girls,Rural,171,160,170,163,0,163,165,147,150,72,88
+Tribal Welfare Department,Government,Middle,Co.Educational,Rural,6718,5928,6645,6353,5962,6130,6445,5756,6260,3043,3291
+Local Body,Government,Middle,Boys,Rural,732,726,730,711,711,0,724,690,719,697,723
+Local Body,Government,Middle,Girls,Rural,796,789,796,784,0,784,790,750,777,744,770
+Local Body,Government,Middle,Co.Educational,Rural,38744,37198,38638,37759,36133,37096,38443,36675,37885,30595,34809
+Government Aided,Govt Aided,Middle,Boys,Rural,75,67,75,75,75,0,72,68,43,43,37
+Government Aided,Govt Aided,Middle,Girls,Rural,331,214,322,297,0,297,292,212,141,128,84
+Government Aided,Govt Aided,Middle,Co.Educational,Rural,11442,9013,11107,10578,10270,10363,10332,8959,7673,6746,5428
+Private Unaided (Recognized),Govt Aided,Middle,Boys,Rural,121,106,120,119,119,0,109,61,50,80,71
+Private Unaided (Recognized),Govt Aided,Middle,Girls,Rural,423,352,420,398,0,398,389,207,201,219,170
+Private Unaided (Recognized),Govt Aided,Middle,Co.Educational,Rural,77066,68979,76477,73025,72698,72224,73298,41235,43254,54063,48164
+Other State Govt. Managed,Government,Middle,Boys,Rural,7,7,7,7,7,0,6,4,1,3,4
+Other State Govt. Managed,Government,Middle,Girls,Rural,56,56,56,56,0,56,55,55,51,55,55
+Other State Govt. Managed,Government,Middle,Co.Educational,Rural,44,42,44,44,43,40,41,42,35,26,29
+Partially Govt. Aided,Government,Middle,Co.Educational,Rural,21,21,21,20,20,20,21,21,21,19,19
+Unrecognized,Other,Middle,Boys,Rural,20,20,20,19,19,0,19,7,4,11,8
+Unrecognized,Other,Middle,Girls,Rural,23,19,23,21,0,21,20,8,3,12,10
+Unrecognized,Other,Middle,Co.Educational,Rural,6314,5816,6245,6166,6135,6126,5921,2362,2516,4545,3904
+Minority Affairs Department,Other,Middle,Co.Educational,Rural,14,11,14,14,14,14,14,7,6,3,2
+Social Welfare Department,Government,Middle,Boys,Rural,5,4,4,5,5,0,3,4,4,2,3
+Social Welfare Department,Government,Middle,Girls,Rural,10,10,10,10,0,10,10,4,2,7,6
+Social Welfare Department,Government,Middle,Co.Educational,Rural,111,110,111,111,108,110,111,104,69,99,108
+Ministry of Labour,Other,Middle,Boys,Rural,3,3,3,3,3,0,3,1,3,1,2
+Ministry of Labour,Other,Middle,Girls,Rural,1,1,1,1,0,1,1,1,0,0,1
+Kendriya Vidyalaya,Government,Middle,Co.Educational,Rural,6,6,6,6,6,6,6,4,2,6,6
+Central Tibetan School,Other,Middle,Co.Educational,Rural,2,2,2,2,2,2,2,2,1,0,2
+Madrasa Private Unaided (Recognized),Govt Aided,Middle,Boys,Rural,21,18,21,20,20,0,16,7,9,10,7
+Madrasa Private Unaided (Recognized),Govt Aided,Middle,Girls,Rural,79,67,79,78,0,78,72,26,33,42,18
+Madrasa Private Unaided (Recognized),Govt Aided,Middle,Co.Educational,Rural,4259,3282,4242,3992,3933,3909,3889,1313,1967,2121,1012
+Madarsa Unrecognized,Other,Middle,Boys,Rural,27,26,27,24,24,0,25,11,12,11,11
+Madarsa Unrecognized,Other,Middle,Girls,Rural,12,12,12,12,0,12,12,4,4,6,3
+Madarsa Unrecognized,Other,Middle,Co.Educational,Rural,257,223,255,251,246,241,237,75,95,126,54
+Madrasa Aided (Recognized),Govt Aided,Middle,Co.Educational,Rural,75,66,75,72,72,70,69,27,51,34,29
+Other Central Govt./PSU Schools,Government,Middle,Co.Educational,Rural,11,8,10,9,9,9,10,7,6,7,7
+Department of Education,Government,Secondary,Boys,Rural,668,668,668,667,667,0,658,624,555,613,641
+Department of Education,Government,Secondary,Girls,Rural,4972,4938,4958,4906,0,4902,4917,4339,4230,4271,4586
+Department of Education,Government,Secondary,Co.Educational,Rural,80914,79266,80431,79010,77024,77356,78538,65634,72792,64266,71826
+Tribal Welfare Department,Government,Secondary,Boys,Rural,484,479,483,478,478,0,475,438,348,405,461
+Tribal Welfare Department,Government,Secondary,Girls,Rural,787,783,786,785,0,785,779,745,633,656,746
+Tribal Welfare Department,Government,Secondary,Co.Educational,Rural,3683,3596,3655,3598,3467,3454,3562,3278,3164,2416,3371
+Local Body,Government,Secondary,Girls,Rural,174,172,174,173,0,173,170,169,159,130,169
+Local Body,Government,Secondary,Co.Educational,Rural,8772,8714,8759,8651,8007,8590,8708,8590,8357,6799,8556
+Government Aided,Govt Aided,Secondary,Boys,Rural,146,138,145,141,141,0,143,116,101,119,128
+Government Aided,Govt Aided,Secondary,Girls,Rural,789,753,787,772,0,772,760,695,573,651,647
+Government Aided,Govt Aided,Secondary,Co.Educational,Rural,28184,26754,28046,27649,27366,27492,26895,24404,21746,22278,23890
+Private Unaided (Recognized),Govt Aided,Secondary,Boys,Rural,201,195,200,197,197,0,197,140,130,173,171
+Private Unaided (Recognized),Govt Aided,Secondary,Girls,Rural,851,785,844,826,0,826,804,496,483,645,566
+Private Unaided (Recognized),Govt Aided,Secondary,Co.Educational,Rural,70225,65336,69912,67648,67261,67137,67760,43114,44131,59107,57541
+Other State Govt. Managed,Government,Secondary,Boys,Rural,48,48,48,47,47,0,48,44,37,46,46
+Other State Govt. Managed,Government,Secondary,Girls,Rural,62,61,61,60,0,60,59,56,37,56,58
+Other State Govt. Managed,Government,Secondary,Co.Educational,Rural,216,200,207,208,200,203,181,137,117,137,156
+Partially Govt. Aided,Government,Secondary,Co.Educational,Rural,98,96,98,96,96,95,98,96,78,87,83
+Unrecognized,Other,Secondary,Boys,Rural,13,12,13,13,13,0,13,4,2,5,5
+Unrecognized,Other,Secondary,Girls,Rural,24,14,24,21,0,21,21,10,6,12,7
+Unrecognized,Other,Secondary,Co.Educational,Rural,1265,943,1205,1107,1061,1095,1024,621,416,674,658
+Minority Affairs Department,Other,Secondary,Co.Educational,Rural,11,11,11,11,11,11,10,3,6,2,8
+Social Welfare Department,Government,Secondary,Boys,Rural,239,237,238,234,234,0,234,209,174,224,225
+Social Welfare Department,Government,Secondary,Girls,Rural,341,340,341,339,0,339,338,317,270,305,329
+Social Welfare Department,Government,Secondary,Co.Educational,Rural,432,430,432,431,421,410,415,401,287,381,402
+Kendriya Vidyalaya,Government,Secondary,Co.Educational,Rural,482,482,482,482,482,482,482,462,441,482,482
+Railway School,Other,Secondary,Boys,Rural,1,1,1,1,1,0,1,0,1,1,1
+Railway School,Other,Secondary,Girls,Rural,1,1,1,1,0,1,1,0,1,0,1
+Railway School,Other,Secondary,Co.Educational,Rural,10,10,10,10,9,10,10,7,8,10,10
+Central Tibetan School,Other,Secondary,Co.Educational,Rural,7,7,7,7,7,7,7,5,6,7,7
+Madrasa Private Unaided (Recognized),Govt Aided,Secondary,Boys,Rural,43,40,43,42,42,0,42,18,19,29,18
+Madrasa Private Unaided (Recognized),Govt Aided,Secondary,Girls,Rural,102,81,101,95,0,95,92,44,48,57,48
+Madrasa Private Unaided (Recognized),Govt Aided,Secondary,Co.Educational,Rural,1723,1318,1718,1627,1579,1583,1589,615,758,891,714
+Madarsa Unrecognized,Other,Secondary,Boys,Rural,8,7,8,8,8,0,8,2,2,2,5
+Madarsa Unrecognized,Other,Secondary,Co.Educational,Rural,34,29,34,32,32,28,32,10,13,20,6
+Madrasa Aided (Recognized),Govt Aided,Secondary,Boys,Rural,4,4,4,4,4,0,4,3,2,4,4
+Madrasa Aided (Recognized),Govt Aided,Secondary,Girls,Rural,22,22,22,22,0,22,21,14,18,14,19
+Madrasa Aided (Recognized),Govt Aided,Secondary,Co.Educational,Rural,617,597,617,605,604,604,609,393,512,420,542
+Other Central Govt./PSU Schools,Government,Secondary,Co.Educational,Rural,45,45,45,45,43,45,44,33,34,41,45
+Veda Schools/Gurukuls/Pathashalas(Aided/Unaided),Govt Aided,Secondary,Girls,Rural,2,2,2,2,0,2,2,1,1,2,2
+Veda Schools/Gurukuls/Pathashalas(Aided/Unaided),Govt Aided,Secondary,Co.Educational,Rural,4,4,4,4,4,3,4,3,2,4,3
+Sainik School,Other,Middle,Co.Educational,Rural,1,1,1,1,1,1,1,1,1,1,1
+Madrasa Aided (Recognized),Govt Aided,Middle,Girls,Rural,32,32,32,32,0,32,30,17,23,8,16
+Local Body,Government,Secondary,Boys,Rural,33,32,33,33,33,0,33,33,33,25,32
+Partially Govt. Aided,Government,Secondary,Girls,Rural,2,2,2,2,0,2,2,2,2,1,2
+Jawahar Navodaya Vidyalaya,Government,Secondary,Co.Educational,Rural,521,521,521,521,521,521,521,512,490,520,521
+Sainik School,Other,Secondary,Boys,Rural,1,1,1,1,1,0,1,1,1,1,1
+Sainik School,Other,Secondary,Co.Educational,Rural,25,24,25,25,25,24,25,21,11,25,24
+Madarsa Unrecognized,Other,Secondary,Girls,Rural,11,8,11,11,0,11,11,5,2,4,8
+Veda Schools/Gurukuls/Pathashalas(Aided/Unaided),Govt Aided,Secondary,Boys,Rural,1,1,1,1,1,0,1,1,1,1,1
+Ministry of Labour,Other,Secondary,Co.Educational,Rural,18,17,18,18,18,18,17,17,17,16,16
+Department of Education,Government,Foundational and Preparatory,Boys,Urban,306,304,306,294,294,0,298,255,277,127,153
+Department of Education,Government,Foundational and Preparatory,Girls,Urban,475,468,474,462,0,462,470,383,428,202,224
+Department of Education,Government,Foundational and Preparatory,Co.Educational,Urban,29052,27771,28778,28130,26876,27524,27919,22805,24704,14163,12874
+Tribal Welfare Department,Government,Foundational and Preparatory,Boys,Urban,72,68,72,70,70,0,69,64,59,21,26
+Tribal Welfare Department,Government,Foundational and Preparatory,Girls,Urban,49,49,49,48,0,48,48,43,44,17,23
+Tribal Welfare Department,Government,Foundational and Preparatory,Co.Educational,Urban,547,444,530,506,441,487,494,455,479,257,305
+Local Body,Government,Foundational and Preparatory,Boys,Urban,490,482,490,486,486,0,489,484,478,463,457
+Local Body,Government,Foundational and Preparatory,Girls,Urban,503,501,503,500,0,500,502,492,496,462,458
+Local Body,Government,Foundational and Preparatory,Co.Educational,Urban,10704,10011,10665,10394,9559,10272,10403,9437,8973,7500,6824
+Government Aided,Govt Aided,Foundational and Preparatory,Boys,Urban,72,71,72,72,72,0,71,61,57,55,45
+Government Aided,Govt Aided,Foundational and Preparatory,Girls,Urban,185,184,184,184,0,184,182,153,142,157,143
+Government Aided,Govt Aided,Foundational and Preparatory,Co.Educational,Urban,5519,5345,5479,5424,5341,5386,5391,4865,4600,4085,3476
+Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Boys,Urban,62,61,62,60,60,0,62,40,42,53,50
+Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Girls,Urban,142,139,142,139,0,139,141,95,97,122,120
+Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Co.Educational,Urban,24482,23508,24309,23727,23671,23518,23793,13977,14776,18232,17090
+Other State Govt. Managed,Government,Foundational and Preparatory,Boys,Urban,1,1,1,1,1,0,1,0,0,0,0
+Other State Govt. Managed,Government,Foundational and Preparatory,Girls,Urban,1,1,1,1,0,1,1,1,1,0,0
+Other State Govt. Managed,Government,Foundational and Preparatory,Co.Educational,Urban,33,31,33,33,29,33,33,25,25,24,24
+Partially Govt. Aided,Government,Foundational and Preparatory,Co.Educational,Urban,11,11,11,11,11,11,11,9,11,8,7
+Unrecognized,Other,Foundational and Preparatory,Boys,Urban,3,3,3,3,3,0,3,1,1,1,2
+Unrecognized,Other,Foundational and Preparatory,Girls,Urban,2,2,2,2,0,2,2,1,2,1,0
+Unrecognized,Other,Foundational and Preparatory,Co.Educational,Urban,1374,1343,1369,1362,1355,1357,1322,561,499,909,906
+Social Welfare Department,Government,Foundational and Preparatory,Boys,Urban,10,10,10,10,10,0,10,6,10,6,6
+Social Welfare Department,Government,Foundational and Preparatory,Girls,Urban,6,6,6,6,0,6,6,3,6,4,3
+Social Welfare Department,Government,Foundational and Preparatory,Co.Educational,Urban,138,123,138,134,126,129,129,90,86,70,66
+Sainik School,Other,Foundational and Preparatory,Co.Educational,Urban,5,5,5,5,5,5,5,5,2,5,5
+Railway School,Other,Foundational and Preparatory,Co.Educational,Urban,4,4,4,4,4,3,4,3,3,1,1
+Central Tibetan School,Other,Foundational and Preparatory,Co.Educational,Urban,1,1,1,1,1,1,1,1,1,1,1
+Madrasa Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Boys,Urban,31,28,31,27,27,0,29,14,13,18,6
+Madrasa Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Girls,Urban,36,32,36,34,0,34,35,17,12,14,7
+Madrasa Private Unaided (Recognized),Govt Aided,Foundational and Preparatory,Co.Educational,Urban,3064,2681,3038,2775,2707,2658,2854,1066,1058,1213,716
+Madarsa Unrecognized,Other,Foundational and Preparatory,Boys,Urban,16,15,16,16,16,0,16,10,8,6,5
+Madarsa Unrecognized,Other,Foundational and Preparatory,Girls,Urban,7,7,7,7,0,7,6,4,5,3,3
+Madarsa Unrecognized,Other,Foundational and Preparatory,Co.Educational,Urban,53,51,53,53,48,50,49,32,31,34,28
+Madrasa Aided (Recognized),Govt Aided,Foundational and Preparatory,Co.Educational,Urban,4,4,4,3,3,3,4,2,2,2,3
+Other Central Govt./PSU Schools,Government,Foundational and Preparatory,Boys,Urban,1,1,1,1,1,0,0,0,1,0,1
+Other Central Govt./PSU Schools,Government,Foundational and Preparatory,Girls,Urban,1,1,1,1,0,1,1,0,1,0,1
+Other Central Govt./PSU Schools,Government,Foundational and Preparatory,Co.Educational,Urban,4,4,4,4,4,4,4,1,0,3,3
+Department of Education,Government,Middle,Boys,Urban,342,334,336,333,333,0,335,293,298,153,161
+Department of Education,Government,Middle,Girls,Urban,903,887,899,890,0,890,880,728,727,519,534
+Department of Education,Government,Middle,Co.Educational,Urban,14082,13706,13981,13723,13119,13504,13572,11341,12403,7613,7417
+Tribal Welfare Department,Government,Middle,Boys,Urban,27,27,27,26,26,0,26,22,26,9,15
+Tribal Welfare Department,Government,Middle,Girls,Urban,45,45,45,44,0,44,45,38,38,16,26
+Tribal Welfare Department,Government,Middle,Co.Educational,Urban,248,233,247,236,223,231,239,202,221,111,148
+Local Body,Government,Middle,Boys,Urban,385,376,384,375,375,0,380,361,368,363,369
+Local Body,Government,Middle,Girls,Urban,462,453,460,454,0,454,457,420,437,439,435
+Local Body,Government,Middle,Co.Educational,Urban,5662,5571,5651,5572,5449,5531,5621,5382,5370,4837,5183
+Government Aided,Govt Aided,Middle,Boys,Urban,74,72,74,74,74,0,74,54,47,62,58
+Government Aided,Govt Aided,Middle,Girls,Urban,203,194,202,198,0,198,199,137,124,137,118
+Government Aided,Govt Aided,Middle,Co.Educational,Urban,6669,6460,6647,6596,6544,6562,6489,5577,5150,4895,4770
+Private Unaided (Recognized),Govt Aided,Middle,Boys,Urban,110,108,110,105,105,0,107,72,69,91,96
+Private Unaided (Recognized),Govt Aided,Middle,Girls,Urban,311,303,310,302,0,302,299,178,160,249,243
+Private Unaided (Recognized),Govt Aided,Middle,Co.Educational,Urban,49885,48582,49702,48440,48341,48168,48632,28279,29934,41259,39664
+Other State Govt. Managed,Government,Middle,Boys,Urban,6,6,6,6,6,0,6,6,3,4,4
+Other State Govt. Managed,Government,Middle,Girls,Urban,9,9,9,9,0,9,9,8,9,6,8
+Other State Govt. Managed,Government,Middle,Co.Educational,Urban,42,42,42,42,42,42,41,29,31,31,30
+Partially Govt. Aided,Government,Middle,Co.Educational,Urban,19,19,19,19,19,18,19,14,16,16,14
+Unrecognized,Other,Middle,Boys,Urban,6,6,6,6,6,0,6,3,4,4,3
+Unrecognized,Other,Middle,Girls,Urban,13,13,13,13,0,13,12,5,5,9,7
+Unrecognized,Other,Middle,Co.Educational,Urban,2641,2596,2634,2631,2625,2621,2591,1099,1146,2182,2077
+Social Welfare Department,Government,Middle,Boys,Urban,10,10,10,10,10,0,10,6,8,8,7
+Social Welfare Department,Government,Middle,Girls,Urban,2,2,2,2,0,2,2,0,2,1,1
+Social Welfare Department,Government,Middle,Co.Educational,Urban,70,70,70,70,69,67,69,59,55,61,61
+Ministry of Labour,Other,Middle,Boys,Urban,3,3,3,3,3,0,3,1,1,1,3
+Ministry of Labour,Other,Middle,Girls,Urban,5,5,5,5,0,5,5,2,1,1,4
+Kendriya Vidyalaya,Government,Middle,Co.Educational,Urban,2,2,2,2,2,2,2,2,2,2,2
+Sainik School,Other,Middle,Co.Educational,Urban,1,1,1,1,1,1,1,1,1,1,1
+Madrasa Private Unaided (Recognized),Govt Aided,Middle,Boys,Urban,22,21,22,21,21,0,22,13,12,16,8
+Madrasa Private Unaided (Recognized),Govt Aided,Middle,Girls,Urban,41,40,40,39,0,39,40,15,23,21,14
+Madrasa Private Unaided (Recognized),Govt Aided,Middle,Co.Educational,Urban,1872,1709,1865,1749,1728,1711,1798,650,785,1057,802
+Madarsa Unrecognized,Other,Middle,Boys,Urban,15,15,15,15,15,0,14,12,10,11,9
+Madarsa Unrecognized,Other,Middle,Girls,Urban,19,19,19,19,0,19,19,15,14,12,10
+Madarsa Unrecognized,Other,Middle,Co.Educational,Urban,84,79,84,84,73,82,81,59,52,59,53
+Madrasa Aided (Recognized),Govt Aided,Middle,Boys,Urban,2,2,2,1,1,0,2,1,0,2,1
+Madrasa Aided (Recognized),Govt Aided,Middle,Co.Educational,Urban,21,21,21,20,19,19,20,10,13,13,11
+Other Central Govt./PSU Schools,Government,Middle,Co.Educational,Urban,3,3,3,3,3,3,3,2,3,3,3
+Department of Education,Government,Secondary,Boys,Urban,1614,1612,1614,1608,1608,0,1587,1379,1497,1516,1568
+Department of Education,Government,Secondary,Girls,Urban,3852,3842,3850,3829,0,3828,3813,3231,3489,3556,3695
+Department of Education,Government,Secondary,Co.Educational,Urban,10337,10273,10296,10161,9807,9868,10055,8642,9347,8985,9669
+Tribal Welfare Department,Government,Secondary,Boys,Urban,107,105,107,107,107,0,104,97,81,91,98
+Tribal Welfare Department,Government,Secondary,Girls,Urban,186,185,186,183,0,183,182,168,152,164,168
+Tribal Welfare Department,Government,Secondary,Co.Educational,Urban,365,363,364,359,343,339,348,318,299,315,337
+Local Body,Government,Secondary,Boys,Urban,71,70,71,70,70,0,69,64,64,56,66
+Local Body,Government,Secondary,Girls,Urban,265,264,265,265,0,265,264,250,242,230,262
+Local Body,Government,Secondary,Co.Educational,Urban,2087,2071,2083,2059,1968,2016,2068,2012,1934,1774,2023
+Government Aided,Govt Aided,Secondary,Boys,Urban,668,662,665,661,661,0,661,516,553,628,604
+Government Aided,Govt Aided,Secondary,Girls,Urban,1944,1929,1943,1923,0,1923,1914,1614,1501,1783,1785
+Government Aided,Govt Aided,Secondary,Co.Educational,Urban,11793,11626,11762,11677,11499,11549,11511,9492,9390,10376,10609
+Private Unaided (Recognized),Govt Aided,Secondary,Boys,Urban,236,234,236,232,232,0,234,153,151,212,212
+Private Unaided (Recognized),Govt Aided,Secondary,Girls,Urban,1223,1209,1218,1195,0,1195,1201,762,766,1116,1084
+Private Unaided (Recognized),Govt Aided,Secondary,Co.Educational,Urban,61783,61084,61673,60894,60613,60654,60888,42455,41816,58257,57577
+Other State Govt. Managed,Government,Secondary,Boys,Urban,20,20,20,19,19,0,20,17,17,18,19
+Other State Govt. Managed,Government,Secondary,Girls,Urban,32,32,32,32,0,32,31,21,18,31,30
+Other State Govt. Managed,Government,Secondary,Co.Educational,Urban,248,240,245,244,239,239,222,187,137,171,183
+Partially Govt. Aided,Government,Secondary,Girls,Urban,4,4,4,4,0,4,4,3,2,4,3
+Partially Govt. Aided,Government,Secondary,Co.Educational,Urban,38,38,38,37,37,36,38,33,25,36,33
+Unrecognized,Other,Secondary,Boys,Urban,2,2,2,2,2,0,2,1,2,2,2
+Unrecognized,Other,Secondary,Co.Educational,Urban,302,289,302,296,291,295,283,152,119,226,237
+Social Welfare Department,Government,Secondary,Boys,Urban,104,104,104,104,104,0,104,86,81,91,99
+Social Welfare Department,Government,Secondary,Girls,Urban,154,154,154,153,0,153,152,132,110,138,142
+Social Welfare Department,Government,Secondary,Co.Educational,Urban,118,117,117,116,110,110,111,104,76,104,104
+Kendriya Vidyalaya,Government,Secondary,Co.Educational,Urban,760,760,760,760,759,760,760,741,716,760,760
+Sainik School,Other,Secondary,Co.Educational,Urban,15,15,15,15,15,14,15,15,4,15,15
+Railway School,Other,Secondary,Girls,Urban,1,1,1,1,0,1,1,1,1,1,1
+Railway School,Other,Secondary,Co.Educational,Urban,46,46,46,46,46,46,45,38,37,43,44
+Central Tibetan School,Other,Secondary,Co.Educational,Urban,6,6,6,6,6,6,6,4,5,6,6
+Madrasa Private Unaided (Recognized),Govt Aided,Secondary,Boys,Urban,28,25,28,28,28,0,28,10,16,15,15
+Madrasa Private Unaided (Recognized),Govt Aided,Secondary,Girls,Urban,64,56,64,62,0,62,63,24,21,41,32
+Madrasa Private Unaided (Recognized),Govt Aided,Secondary,Co.Educational,Urban,722,658,721,684,661,655,687,234,325,435,364
+Madarsa Unrecognized,Other,Secondary,Boys,Urban,3,3,3,3,3,0,3,0,1,3,1
+Madarsa Unrecognized,Other,Secondary,Co.Educational,Urban,9,9,9,9,8,7,9,4,5,7,5
+Madrasa Aided (Recognized),Govt Aided,Secondary,Boys,Urban,7,7,7,7,7,0,7,2,5,6,6
+Madrasa Aided (Recognized),Govt Aided,Secondary,Girls,Urban,18,18,18,18,0,18,17,10,8,14,14
+Madrasa Aided (Recognized),Govt Aided,Secondary,Co.Educational,Urban,199,190,199,194,187,186,193,83,113,127,146
+Other Central Govt./PSU Schools,Government,Secondary,Co.Educational,Urban,45,45,45,45,45,45,45,36,38,44,43
+Veda Schools/Gurukuls/Pathashalas(Aided/Unaided),Govt Aided,Secondary,Boys,Urban,2,2,2,2,2,0,2,2,1,1,1
+Veda Schools/Gurukuls/Pathashalas(Aided/Unaided),Govt Aided,Secondary,Co.Educational,Urban,2,2,2,2,2,2,2,2,1,2,2
+Jawahar Navodaya Vidyalaya,Government,Middle,Co.Educational,Urban,3,3,3,3,3,3,3,3,2,3,3
+Jawahar Navodaya Vidyalaya,Government,Secondary,Co.Educational,Urban,129,129,129,129,129,129,129,128,120,129,129
+Sainik School,Other,Secondary,Girls,Urban,1,1,1,1,0,1,1,1,0,1,1
+Other Central Govt./PSU Schools,Government,Secondary,Boys,Urban,3,3,3,3,3,0,3,2,2,3,2
+Other Central Govt./PSU Schools,Government,Secondary,Girls,Urban,1,1,1,1,0,1,1,1,1,1,1
+Unrecognized,Other,Secondary,Girls,Urban,9,8,9,9,0,9,9,3,5,3,2
+Railway School,Other,Secondary,Boys,Urban,1,1,1,1,1,0,1,1,0,0,1
+Madarsa Unrecognized,Other,Secondary,Girls,Urban,1,1,1,1,0,1,1,1,1,1,1
+Ministry of Labour,Other,Secondary,Co.Educational,Urban,1,1,1,1,1,1,1,1,1,1,1

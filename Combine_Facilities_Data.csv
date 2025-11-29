@@ -1,0 +1,408 @@
+State_Name,Total_Schools,Facility_Type,Count,Category,Percentage
+India,1471473,Drinking Water,1456968,WASH,99.0142530647861
+India,1471473,Handwash,1411644,WASH,95.93407422358412
+India,1471473,Girls Toilet,1372881,WASH,93.29977512329482
+India,1471473,Electricity,1352061,Power,91.88486638898573
+India,1471473,Boys Toilet,1334739,WASH,90.70767863222771
+India,1471473,Medical Checkup,1111495,Inclusivity,75.53621439197322
+India,1471473,Electricity (Govt),935216,Power,63.55644989748368
+India,1471473,Internet,933987,Digital,63.472928147509336
+India,1471473,Functional Computer,852684,Digital,57.947648376830564
+India,1471473,Ramps with Handrails,808460,Inclusivity,54.94222456001571
+India,1471473,CWSN Toilet,491262,Inclusivity,33.3857298095174
+Uttar Pradesh,262358,Drinking Water,260722,WASH,99.37642458015384
+Uttar Pradesh,262358,Handwash,251524,WASH,95.87052805708231
+Uttar Pradesh,262358,Girls Toilet,245884,WASH,93.72079372460531
+Uttar Pradesh,262358,Boys Toilet,244986,WASH,93.37851332911518
+Uttar Pradesh,262358,Electricity,225711,Power,86.03168190030416
+Uttar Pradesh,262358,Medical Checkup,163296,Inclusivity,62.24166977946165
+Uttar Pradesh,262358,Functional Computer,134462,Digital,51.2513435839578
+Uttar Pradesh,262358,Ramps with Handrails,130461,Inclusivity,49.72632814703573
+Uttar Pradesh,262358,Electricity (Govt),124386,Power,47.410789836787906
+Madhya Pradesh,122120,Drinking Water,120755,WASH,98.88224697019325
+Uttar Pradesh,262358,Internet,120465,Digital,45.916267085432885
+Madhya Pradesh,122120,Handwash,114539,WASH,93.79217163445792
+Uttar Pradesh,262358,CWSN Toilet,113942,Inclusivity,43.429969736009575
+Maharashtra,108250,Drinking Water,107835,WASH,99.61662817551962
+Madhya Pradesh,122120,Electricity,107204,Power,87.78578447428758
+Maharashtra,108250,Handwash,107041,WASH,98.88314087759815
+Madhya Pradesh,122120,Girls Toilet,106996,WASH,87.61546020307894
+Rajasthan,106302,Drinking Water,104930,WASH,98.70933754774134
+Madhya Pradesh,122120,Boys Toilet,104520,WASH,85.58794628234524
+Rajasthan,106302,Handwash,102859,WASH,96.76111456040339
+Maharashtra,108250,Girls Toilet,101286,WASH,93.56674364896074
+Maharashtra,108250,Medical Checkup,99772,Inclusivity,92.16812933025405
+Maharashtra,108250,Boys Toilet,98061,WASH,90.58752886836028
+Rajasthan,106302,Electricity,97075,Power,91.3200127937386
+Maharashtra,108250,Electricity,96200,Power,88.86836027713626
+Bihar,94339,Drinking Water,93936,WASH,99.57281718059339
+West Bengal,93715,Drinking Water,93628,WASH,99.90716534172758
+Rajasthan,106302,Girls Toilet,92729,WASH,87.2316607401554
+West Bengal,93715,Girls Toilet,92465,WASH,98.66616870298245
+Bihar,94339,Girls Toilet,92426,WASH,97.97220661656367
+Bihar,94339,Handwash,91653,WASH,97.15282120861998
+West Bengal,93715,Handwash,91597,WASH,97.73995625033346
+Bihar,94339,Electricity,91579,Power,97.07438069091256
+Bihar,94339,Boys Toilet,91112,WASH,96.57935742375899
+West Bengal,93715,Electricity,90998,Power,97.10078429280264
+West Bengal,93715,Boys Toilet,90595,WASH,96.67075708264419
+Rajasthan,106302,Boys Toilet,89515,WASH,84.20819928129292
+Maharashtra,108250,Ramps with Handrails,88287,Inclusivity,81.55842956120092
+Madhya Pradesh,122120,Medical Checkup,85756,Inclusivity,70.22273173927285
+Maharashtra,108250,Functional Computer,82992,Digital,76.66697459584296
+West Bengal,93715,Electricity (Govt),80137,Power,85.51139091927654
+Bihar,94339,Internet,80035,Digital,84.83765992855552
+Madhya Pradesh,122120,Electricity (Govt),78813,Power,64.53734032099574
+Maharashtra,108250,Internet,78084,Digital,72.13302540415705
+Karnataka,74859,Drinking Water,74780,WASH,99.89446826700863
+Rajasthan,106302,Internet,74358,Digital,69.9497657616978
+Bihar,94339,Electricity (Govt),74322,Power,78.78183996014374
+Karnataka,74859,Electricity,73570,Power,98.27809615410304
+Karnataka,74859,Girls Toilet,73289,WASH,97.90272378738696
+Rajasthan,106302,Medical Checkup,70688,Inclusivity,66.4973377735132
+Karnataka,74859,Boys Toilet,70504,WASH,94.18239623826126
+Karnataka,74859,Handwash,70061,WASH,93.59061702667681
+Karnataka,74859,Medical Checkup,68606,Inclusivity,91.64696295702588
+Madhya Pradesh,122120,Functional Computer,66314,Digital,54.30232558139535
+Maharashtra,108250,CWSN Toilet,63212,Inclusivity,58.39445727482679
+Rajasthan,106302,Electricity (Govt),63079,Power,59.339429173486856
+West Bengal,93715,Medical Checkup,63012,Inclusivity,67.23790215013605
+Odisha,61565,Drinking Water,61562,WASH,99.9951271014375
+Andhra Pradesh,61317,Drinking Water,61316,WASH,99.99836913090986
+Odisha,61565,Handwash,61314,WASH,99.59230082027126
+Andhra Pradesh,61317,Electricity,61103,Power,99.65099401471043
+Andhra Pradesh,61317,Handwash,61057,WASH,99.57597403656409
+Andhra Pradesh,61317,Internet,60731,Digital,99.04431071317904
+Odisha,61565,Girls Toilet,60331,WASH,97.99561439129376
+Andhra Pradesh,61317,Girls Toilet,60089,WASH,97.99729275731038
+Odisha,61565,Electricity,59665,Power,96.91383091041989
+Odisha,61565,Medical Checkup,59067,Inclusivity,95.94249979696255
+Andhra Pradesh,61317,Medical Checkup,58845,Inclusivity,95.96849160917853
+Odisha,61565,Boys Toilet,58597,WASH,95.17907902217169
+Tamil Nadu,57935,Electricity,57699,Power,99.59264693190644
+Tamil Nadu,57935,Drinking Water,57691,WASH,99.578838353327
+Tamil Nadu,57935,Handwash,57404,WASH,99.0834555967895
+Chhattisgarh,56802,Drinking Water,56104,WASH,98.77117002922432
+Madhya Pradesh,122120,Internet,55865,Digital,45.745987553226335
+Chhattisgarh,56802,Handwash,55486,WASH,97.68318016971233
+Tamil Nadu,57935,Medical Checkup,55218,Inclusivity,95.31026149995685
+Tamil Nadu,57935,Girls Toilet,54155,WASH,93.47544662121344
+Assam,55283,Drinking Water,53938,WASH,97.5670640160628
+Maharashtra,108250,Electricity (Govt),53472,Power,49.39676674364896
+Andhra Pradesh,61317,Boys Toilet,53387,WASH,87.0672081152046
+Odisha,61565,Ramps with Handrails,53353,Inclusivity,86.66125233493057
+Gujarat,53355,Electricity,53297,Power,99.89129416174679
+Gujarat,53355,Drinking Water,53292,WASH,99.88192296879393
+Tamil Nadu,57935,Functional Computer,53080,Digital,91.61991887460084
+Gujarat,53355,Handwash,52286,WASH,97.99643894667791
+Chhattisgarh,56802,Medical Checkup,52200,Inclusivity,91.89817259955635
+Assam,55283,Girls Toilet,52065,WASH,94.17904238192573
+Chhattisgarh,56802,Electricity,51657,Power,90.94222034435407
+Tamil Nadu,57935,Boys Toilet,51644,WASH,89.14127901959093
+Odisha,61565,Internet,51588,Digital,83.79436368066271
+Gujarat,53355,Internet,51514,Digital,96.54952675475587
+Assam,55283,Handwash,51426,WASH,93.02317168026337
+Assam,55283,Boys Toilet,51285,WASH,92.7681203986759
+Gujarat,53355,Functional Computer,51252,Digital,96.05847624402587
+Gujarat,53355,Girls Toilet,51015,WASH,95.61428169806017
+Gujarat,53355,Boys Toilet,50329,WASH,94.32855402492737
+Chhattisgarh,56802,Girls Toilet,50316,WASH,88.5813879792965
+Rajasthan,106302,Functional Computer,49967,Digital,47.00476002332976
+Tamil Nadu,57935,Ramps with Handrails,49949,Inclusivity,86.21558643307155
+West Bengal,93715,Ramps with Handrails,49844,Inclusivity,53.18678973483434
+Tamil Nadu,57935,Internet,49211,Digital,84.94174505911798
+Assam,55283,Electricity,49092,Power,88.8012589765389
+Assam,55283,Internet,48201,Digital,87.18955194182661
+Karnataka,74859,Electricity (Govt),47783,Power,63.830668323114125
+Karnataka,74859,Ramps with Handrails,47433,Inclusivity,63.36312267062076
+Odisha,61565,Electricity (Govt),47036,Power,76.40055226183708
+Andhra Pradesh,61317,Functional Computer,46909,Digital,76.50243814928976
+Chhattisgarh,56802,Boys Toilet,46839,WASH,82.46012464349846
+Assam,55283,Medical Checkup,46609,Inclusivity,84.30982399652696
+Bihar,94339,Ramps with Handrails,46519,Inclusivity,49.31046544907197
+Gujarat,53355,Medical Checkup,45393,Inclusivity,85.07731234186112
+Andhra Pradesh,61317,Electricity (Govt),44680,Power,72.86723094737185
+Chhattisgarh,56802,Electricity (Govt),43880,Power,77.25080102813281
+Jharkhand,44376,Drinking Water,43857,WASH,98.83044889129259
+Odisha,61565,Functional Computer,43793,Digital,71.13294891578008
+Odisha,61565,CWSN Toilet,43468,Inclusivity,70.60505157150979
+Telangana,43154,Drinking Water,42946,WASH,99.51800528340362
+Assam,55283,Electricity (Govt),42822,Power,77.45961688041531
+Jharkhand,44376,Girls Toilet,42324,WASH,95.37587885343429
+Madhya Pradesh,122120,Ramps with Handrails,42111,Inclusivity,34.48329511955453
+Jharkhand,44376,Handwash,41625,WASH,93.80070308274743
+Telangana,43154,Handwash,41387,WASH,95.90536219122214
+Jharkhand,44376,Boys Toilet,41375,WASH,93.23733549666487
+Jharkhand,44376,Electricity,41115,Power,92.651433207139
+Telangana,43154,Electricity,41059,Power,95.14529359966632
+Telangana,43154,Girls Toilet,39454,WASH,91.4260555220837
+Assam,55283,Ramps with Handrails,39269,Inclusivity,71.03268635927861
+Karnataka,74859,Functional Computer,37939,Digital,50.68061288555818
+Karnataka,74859,Internet,37921,Digital,50.656567680572806
+Rajasthan,106302,Ramps with Handrails,37579,Inclusivity,35.35116931007883
+Tamil Nadu,57935,Electricity (Govt),37530,Power,64.77949426080953
+Assam,55283,Functional Computer,36848,Digital,66.65340158819166
+Chhattisgarh,56802,Internet,36511,Digital,64.27766627935637
+Andhra Pradesh,61317,Ramps with Handrails,36493,Inclusivity,59.51530570641095
+Telangana,43154,Medical Checkup,36460,Inclusivity,84.48811234184548
+Telangana,43154,Boys Toilet,36085,WASH,83.61913148259721
+Telangana,43154,Functional Computer,35048,Digital,81.21610974648932
+Gujarat,53355,Electricity (Govt),34584,Power,64.8186674163621
+Jharkhand,44376,Electricity (Govt),33397,Power,75.25914908959798
+Gujarat,53355,Ramps with Handrails,32902,Inclusivity,61.66619810701902
+Jharkhand,44376,Medical Checkup,31467,Inclusivity,70.90995132504057
+Chhattisgarh,56802,Ramps with Handrails,31445,Inclusivity,55.35896623358333
+Bihar,94339,Medical Checkup,30806,Inclusivity,32.65457552019843
+Chhattisgarh,56802,CWSN Toilet,28969,Inclusivity,50.99996478997218
+West Bengal,93715,CWSN Toilet,28883,Inclusivity,30.82003948140639
+Telangana,43154,Electricity (Govt),28031,Power,64.95573990823561
+Tamil Nadu,57935,CWSN Toilet,27996,Inclusivity,48.32312073875896
+Telangana,43154,Internet,27309,Digital,63.28266209389628
+Punjab,27281,Drinking Water,27273,WASH,99.97067556174628
+Punjab,27281,Electricity,27261,Power,99.92668890436568
+Punjab,27281,Handwash,27260,WASH,99.92302334958396
+Punjab,27281,Girls Toilet,26727,WASH,97.96928265092923
+Punjab,27281,Functional Computer,26546,Digital,97.30581723543858
+Punjab,27281,Boys Toilet,26260,WASH,96.25746856786775
+Madhya Pradesh,122120,CWSN Toilet,26181,Inclusivity,21.438748771699967
+Jharkhand,44376,Internet,25715,Digital,57.947989904452854
+Punjab,27281,Internet,24249,Digital,88.88603790183645
+Jammu and Kashmir,24192,Drinking Water,24061,WASH,99.45849867724867
+Punjab,27281,Medical Checkup,23496,Inclusivity,86.12587515120413
+Haryana,23494,Drinking Water,23494,WASH,100.0
+Haryana,23494,Electricity,23483,Power,99.95317953520048
+Haryana,23494,Handwash,23457,WASH,99.84251298203797
+Haryana,23494,Girls Toilet,23012,WASH,97.94841236060272
+West Bengal,93715,Functional Computer,22721,Digital,24.24478471962866
+Jammu and Kashmir,24192,Handwash,22639,WASH,93.5805224867725
+Haryana,23494,Boys Toilet,22486,WASH,95.70954286200732
+Haryana,23494,Functional Computer,22457,Digital,95.58610709117221
+Bihar,94339,Functional Computer,22410,Digital,23.754756781394757
+Uttarakhand,22452,Drinking Water,22233,WASH,99.02458578300374
+Rajasthan,106302,CWSN Toilet,22106,Inclusivity,20.795469511392074
+Uttarakhand,22452,Handwash,21958,WASH,97.799750579013
+Chhattisgarh,56802,Functional Computer,21685,Digital,38.1764726594134
+Uttarakhand,22452,Electricity,21173,Power,94.303402814894
+Jammu and Kashmir,24192,Electricity,21093,Power,87.18998015873017
+Haryana,23494,Medical Checkup,21076,Inclusivity,89.7080105558866
+Telangana,43154,Ramps with Handrails,20422,Inclusivity,47.32353895351532
+Uttarakhand,22452,Girls Toilet,20315,WASH,90.4819169784429
+Jammu and Kashmir,24192,Girls Toilet,20293,WASH,83.88310185185185
+Gujarat,53355,CWSN Toilet,19963,Inclusivity,37.41542498360042
+Uttarakhand,22452,Boys Toilet,19717,WASH,87.81845715303758
+Jammu and Kashmir,24192,Boys Toilet,19424,WASH,80.29100529100529
+Jharkhand,44376,Functional Computer,19369,Digital,43.64746709933297
+Punjab,27281,Electricity (Govt),19229,Power,70.48495289762106
+Uttarakhand,22452,Medical Checkup,18903,Inclusivity,84.19294494922501
+Uttarakhand,22452,Functional Computer,18857,Digital,83.98806342419384
+Jammu and Kashmir,24192,Medical Checkup,18542,Inclusivity,76.64517195767195
+Haryana,23494,Internet,18539,Digital,78.9095088107602
+Jharkhand,44376,Ramps with Handrails,18119,Inclusivity,40.83062916892013
+West Bengal,93715,Internet,17441,Digital,18.61068132102652
+Bihar,94339,CWSN Toilet,17407,Inclusivity,18.45154178017575
+Himachal Pradesh,17330,Drinking Water,17330,WASH,100.0
+Himachal Pradesh,17330,Handwash,17266,WASH,99.63069821119446
+Himachal Pradesh,17330,Electricity,17163,Power,99.03635314483554
+Himachal Pradesh,17330,Girls Toilet,17146,WASH,98.93825735718409
+Punjab,27281,Ramps with Handrails,17142,Inclusivity,62.83494006817932
+Himachal Pradesh,17330,Boys Toilet,17057,WASH,98.42469705712638
+Himachal Pradesh,17330,Medical Checkup,16495,Inclusivity,95.18176572417772
+Jammu and Kashmir,24192,Electricity (Govt),16255,Power,67.1916335978836
+Uttarakhand,22452,Internet,16236,Digital,72.31427044361304
+Kerala,15757,Drinking Water,15746,WASH,99.93018975693343
+Kerala,15757,Handwash,15732,WASH,99.84134035666688
+Kerala,15757,Electricity,15717,Power,99.746144570667
+Kerala,15757,Girls Toilet,15645,WASH,99.28920479786761
+Kerala,15757,Functional Computer,15618,Digital,99.11785238306784
+Kerala,15757,Boys Toilet,15442,WASH,98.00088849400267
+Punjab,27281,CWSN Toilet,15353,Inclusivity,56.277262563689014
+Uttarakhand,22452,Electricity (Govt),14860,Power,66.18564047746304
+Himachal Pradesh,17330,Electricity (Govt),14563,Power,84.0334679746105
+Andhra Pradesh,61317,CWSN Toilet,14455,Inclusivity,23.574212697946738
+Kerala,15757,Internet,14442,Digital,91.65450276067779
+Haryana,23494,Electricity (Govt),14338,Power,61.02834766323316
+Kerala,15757,Medical Checkup,13971,Inclusivity,88.66535508028178
+Karnataka,74859,CWSN Toilet,13579,Inclusivity,18.139435472020732
+Assam,55283,CWSN Toilet,13314,Inclusivity,24.083352929471992
+Himachal Pradesh,17330,Ramps with Handrails,13012,Inclusivity,75.08366993652625
+Himachal Pradesh,17330,Functional Computer,12505,Digital,72.15810732833238
+Haryana,23494,CWSN Toilet,12127,Inclusivity,51.61743423852898
+Uttarakhand,22452,Ramps with Handrails,11926,Inclusivity,53.11776233743096
+Jammu and Kashmir,24192,Internet,11883,Digital,49.11954365079365
+Haryana,23494,Ramps with Handrails,11563,Inclusivity,49.2168213160807
+Himachal Pradesh,17330,Internet,11011,Digital,63.537218695903064
+Kerala,15757,Ramps with Handrails,10778,Inclusivity,68.40134543377546
+Meghalaya,14587,Boys Toilet,10447,WASH,71.61856447521767
+Meghalaya,14587,Girls Toilet,10016,WASH,68.66387879618838
+Meghalaya,14587,Drinking Water,10015,WASH,68.6570233769795
+Meghalaya,14587,Medical Checkup,9206,Inclusivity,63.11098923699184
+Jammu and Kashmir,24192,Functional Computer,8841,Digital,36.54513888888889
+Meghalaya,14587,Handwash,6235,WASH,42.74353876739563
+Kerala,15757,CWSN Toilet,5596,Inclusivity,35.514374563685976
+Delhi,5556,Electricity,5556,Power,100.0
+Delhi,5556,Drinking Water,5556,WASH,100.0
+Delhi,5556,Handwash,5556,WASH,100.0
+Delhi,5556,Internet,5556,Digital,100.0
+Delhi,5556,Functional Computer,5553,Digital,99.94600431965442
+Delhi,5556,CWSN Toilet,5520,Inclusivity,99.35205183585313
+Delhi,5556,Medical Checkup,5446,Inclusivity,98.02015838732902
+Delhi,5556,Ramps with Handrails,5365,Inclusivity,96.56227501799856
+Himachal Pradesh,17330,CWSN Toilet,4891,Inclusivity,28.222735141373338
+Kerala,15757,Electricity (Govt),4781,Power,30.34207019102621
+Delhi,5556,Boys Toilet,4781,WASH,86.05111591072713
+Tripura,4943,Drinking Water,4752,WASH,96.13594982803966
+Delhi,5556,Girls Toilet,4720,WASH,84.9532037437005
+Manipur,4666,Drinking Water,4646,WASH,99.57136733819118
+Tripura,4943,Handwash,4606,WASH,93.18227796884483
+Meghalaya,14587,Electricity,4095,Power,28.072941660382533
+Tripura,4943,Medical Checkup,3982,Inclusivity,80.55836536516286
+Tripura,4943,Electricity,3952,Power,79.95144648998583
+Meghalaya,14587,Internet,3858,Digital,26.448207307876874
+Manipur,4666,Handwash,3762,WASH,80.6258036862409
+Tripura,4943,Girls Toilet,3720,WASH,75.25794052195023
+Mizoram,3974,Drinking Water,3709,WASH,93.33165576245597
+Tripura,4943,Boys Toilet,3643,WASH,73.70018207566255
+Jammu and Kashmir,24192,Ramps with Handrails,3580,Inclusivity,14.798280423280424
+Manipur,4666,Boys Toilet,3540,WASH,75.86798114016288
+Manipur,4666,Girls Toilet,3474,WASH,74.45349335619375
+Meghalaya,14587,Ramps with Handrails,3366,Inclusivity,23.075341057105643
+Tripura,4943,Electricity (Govt),3339,Power,67.5500708072021
+Mizoram,3974,Electricity,3193,Power,80.34725717161551
+Mizoram,3974,Boys Toilet,3173,WASH,79.84398590840463
+Mizoram,3974,Girls Toilet,3142,WASH,79.06391545042779
+Tripura,4943,Functional Computer,3015,Digital,60.99534695529031
+Manipur,4666,Electricity,2952,Power,63.26618088298328
+Mizoram,3974,Handwash,2951,WASH,74.25767488676397
+Arunachal Pradesh,3229,Drinking Water,2932,WASH,90.80210591514401
+Telangana,43154,CWSN Toilet,2926,Inclusivity,6.780367984427863
+Jharkhand,44376,CWSN Toilet,2842,Inclusivity,6.404362718586623
+Delhi,5556,Electricity (Govt),2681,Power,48.2541396688265
+Mizoram,3974,Medical Checkup,2614,Inclusivity,65.7775541016608
+Mizoram,3974,Internet,2580,Digital,64.92199295420231
+Mizoram,3974,Functional Computer,2573,Digital,64.74584801207851
+Meghalaya,14587,Functional Computer,2552,Digital,17.495029821073558
+Nagaland,2750,Drinking Water,2429,WASH,88.32727272727273
+Uttarakhand,22452,CWSN Toilet,2406,Inclusivity,10.716194548369856
+Arunachal Pradesh,3229,Girls Toilet,2376,WASH,73.58315267884794
+Arunachal Pradesh,3229,Boys Toilet,2372,WASH,73.45927531743574
+Manipur,4666,Medical Checkup,2268,Inclusivity,48.6069438491213
+Nagaland,2750,Boys Toilet,2218,WASH,80.65454545454546
+Nagaland,2750,Girls Toilet,2216,WASH,80.58181818181818
+Nagaland,2750,Functional Computer,2162,Digital,78.61818181818182
+Nagaland,2750,Electricity,2150,Power,78.18181818181819
+Tripura,4943,Internet,2059,Digital,41.654865466316004
+Arunachal Pradesh,3229,Electricity,2013,Power,62.341282130690615
+Mizoram,3974,Electricity (Govt),1977,Power,49.74836436839457
+Nagaland,2750,Handwash,1920,WASH,69.81818181818183
+Tripura,4943,Ramps with Handrails,1881,Inclusivity,38.05381347359903
+Arunachal Pradesh,3229,Medical Checkup,1758,Inclusivity,54.44410034066275
+Arunachal Pradesh,3229,Handwash,1757,WASH,54.41313100030969
+Jammu and Kashmir,24192,CWSN Toilet,1745,Inclusivity,7.213128306878307
+Manipur,4666,Internet,1709,Digital,36.62666095156451
+Manipur,4666,Functional Computer,1642,Digital,35.19074153450493
+Manipur,4666,Electricity (Govt),1623,Power,34.78354050578654
+Nagaland,2750,Internet,1622,Digital,58.98181818181818
+Goa,1479,Electricity,1479,Power,100.0
+Goa,1479,Drinking Water,1479,WASH,100.0
+Goa,1479,Handwash,1479,WASH,100.0
+Goa,1479,Girls Toilet,1469,WASH,99.32386747802569
+Goa,1479,Boys Toilet,1466,WASH,99.12102772143339
+Goa,1479,Medical Checkup,1455,Inclusivity,98.37728194726166
+Meghalaya,14587,Electricity (Govt),1420,Power,9.734695276616165
+Nagaland,2750,Electricity (Govt),1385,Power,50.36363636363637
+Goa,1479,Internet,1379,Digital,93.23867478025693
+Arunachal Pradesh,3229,Electricity (Govt),1365,Power,42.273149581913906
+Arunachal Pradesh,3229,Functional Computer,1357,Digital,42.0253948590895
+Sikkim,1245,Drinking Water,1242,WASH,99.75903614457832
+Nagaland,2750,Medical Checkup,1234,Inclusivity,44.872727272727275
+Sikkim,1245,Boys Toilet,1220,WASH,97.99196787148594
+Sikkim,1245,Handwash,1219,WASH,97.91164658634538
+Sikkim,1245,Electricity,1208,Power,97.0281124497992
+Sikkim,1245,Girls Toilet,1136,WASH,91.24497991967871
+Sikkim,1245,Medical Checkup,1130,Inclusivity,90.76305220883533
+Manipur,4666,Ramps with Handrails,1127,Inclusivity,24.15345049292756
+Sikkim,1245,Functional Computer,1118,Digital,89.79919678714859
+Arunachal Pradesh,3229,Internet,1086,Digital,33.63270362341282
+Ladakh,961,Drinking Water,932,WASH,96.98231009365244
+Ladakh,961,Medical Checkup,885,Inclusivity,92.09157127991675
+Goa,1479,Ramps with Handrails,878,Inclusivity,59.364435429344155
+Ladakh,961,Boys Toilet,858,WASH,89.28199791883455
+Ladakh,961,Girls Toilet,831,WASH,86.47242455775233
+Sikkim,1245,Electricity (Govt),827,Power,66.42570281124497
+Goa,1479,Functional Computer,824,Digital,55.71331981068289
+Goa,1479,Electricity (Govt),780,Power,52.73833671399595
+Mizoram,3974,Ramps with Handrails,770,Inclusivity,19.37594363361852
+Puducherry,763,Electricity,763,Power,100.0
+Puducherry,763,Drinking Water,763,WASH,100.0
+Puducherry,763,Handwash,763,WASH,100.0
+Puducherry,763,Medical Checkup,761,Inclusivity,99.73787680209698
+Puducherry,763,Internet,760,Digital,99.60681520314549
+Puducherry,763,Functional Computer,751,Digital,98.42726081258192
+Ladakh,961,Handwash,741,WASH,77.10718002081165
+Puducherry,763,Girls Toilet,738,WASH,96.72346002621232
+Ladakh,961,Electricity,734,Power,76.37877211238293
+Puducherry,763,Boys Toilet,727,WASH,95.28178243774575
+Arunachal Pradesh,3229,Ramps with Handrails,650,Inclusivity,20.130071229482812
+Sikkim,1245,Internet,643,Digital,51.64658634538153
+Ladakh,961,Electricity (Govt),604,Power,62.85119667013528
+Mizoram,3974,CWSN Toilet,597,Inclusivity,15.02264720684449
+Tripura,4943,CWSN Toilet,597,Inclusivity,12.077685616022658
+Ladakh,961,Functional Computer,537,Digital,55.87929240374609
+Nagaland,2750,Ramps with Handrails,524,Inclusivity,19.054545454545455
+Ladakh,961,Internet,488,Digital,50.78043704474505
+Meghalaya,14587,CWSN Toilet,470,Inclusivity,3.2220470281757727
+Manipur,4666,CWSN Toilet,462,Inclusivity,9.901414487783969
+Dadra and Nagar Haveli and Daman and Diu,433,Electricity,433,Power,100.0
+Dadra and Nagar Haveli and Daman and Diu,433,Drinking Water,433,WASH,100.0
+Dadra and Nagar Haveli and Daman and Diu,433,Handwash,433,WASH,100.0
+Dadra and Nagar Haveli and Daman and Diu,433,Medical Checkup,433,Inclusivity,100.0
+Dadra and Nagar Haveli and Daman and Diu,433,Girls Toilet,431,WASH,99.53810623556582
+Dadra and Nagar Haveli and Daman and Diu,433,Internet,431,Digital,99.53810623556582
+Dadra and Nagar Haveli and Daman and Diu,433,Boys Toilet,430,WASH,99.30715935334872
+Dadra and Nagar Haveli and Daman and Diu,433,Ramps with Handrails,421,Inclusivity,97.22863741339492
+Puducherry,763,Electricity (Govt),419,Power,54.914809960681524
+Dadra and Nagar Haveli and Daman and Diu,433,Functional Computer,414,Digital,95.61200923787528
+Andaman and Nicobar Islands,408,Drinking Water,408,WASH,100.0
+Andaman and Nicobar Islands,408,Girls Toilet,408,WASH,100.0
+Andaman and Nicobar Islands,408,Handwash,408,WASH,100.0
+Andaman and Nicobar Islands,408,Medical Checkup,407,Inclusivity,99.75490196078431
+Andaman and Nicobar Islands,408,Boys Toilet,404,WASH,99.01960784313727
+Dadra and Nagar Haveli and Daman and Diu,433,CWSN Toilet,402,Inclusivity,92.8406466512702
+Puducherry,763,Ramps with Handrails,391,Inclusivity,51.24508519003932
+Andaman and Nicobar Islands,408,Electricity,376,Power,92.15686274509804
+Sikkim,1245,Ramps with Handrails,367,Inclusivity,29.477911646586346
+Dadra and Nagar Haveli and Daman and Diu,433,Electricity (Govt),361,Power,83.37182448036951
+Andaman and Nicobar Islands,408,Functional Computer,332,Digital,81.37254901960785
+Sikkim,1245,CWSN Toilet,331,Inclusivity,26.586345381526105
+Andaman and Nicobar Islands,408,Electricity (Govt),303,Power,74.26470588235294
+Puducherry,763,CWSN Toilet,288,Inclusivity,37.745740498034074
+Arunachal Pradesh,3229,CWSN Toilet,284,Inclusivity,8.795292660266336
+Andaman and Nicobar Islands,408,Internet,264,Digital,64.70588235294117
+Ladakh,961,CWSN Toilet,240,Inclusivity,24.97398543184183
+Nagaland,2750,CWSN Toilet,232,Inclusivity,8.436363636363636
+Ladakh,961,Ramps with Handrails,215,Inclusivity,22.372528616024976
+Chandigarh,207,Electricity,207,Power,100.0
+Chandigarh,207,Drinking Water,207,WASH,100.0
+Chandigarh,207,Handwash,207,WASH,100.0
+Chandigarh,207,Internet,207,Digital,100.0
+Chandigarh,207,Girls Toilet,206,WASH,99.51690821256038
+Chandigarh,207,Functional Computer,206,Digital,99.51690821256038
+Chandigarh,207,Boys Toilet,204,WASH,98.55072463768117
+Chandigarh,207,Medical Checkup,202,Inclusivity,97.58454106280193
+Chandigarh,207,CWSN Toilet,186,Inclusivity,89.85507246376811
+Andaman and Nicobar Islands,408,Ramps with Handrails,156,Inclusivity,38.23529411764706
+Goa,1479,CWSN Toilet,150,Inclusivity,10.141987829614605
+Chandigarh,207,Ramps with Handrails,132,Inclusivity,63.76811594202898
+Andaman and Nicobar Islands,408,CWSN Toilet,119,Inclusivity,29.166666666666668
+Chandigarh,207,Electricity (Govt),118,Power,57.00483091787439
+Lakshadweep,36,Electricity,36,Power,100.0
+Lakshadweep,36,Electricity (Govt),36,Power,100.0
+Lakshadweep,36,Drinking Water,36,WASH,100.0
+Lakshadweep,36,Boys Toilet,36,WASH,100.0
+Lakshadweep,36,Girls Toilet,36,WASH,100.0
+Lakshadweep,36,Handwash,36,WASH,100.0
+Lakshadweep,36,Internet,36,Digital,100.0
+Lakshadweep,36,Medical Checkup,36,Inclusivity,100.0
+Lakshadweep,36,Functional Computer,35,Digital,97.22222222222221
+Lakshadweep,36,Ramps with Handrails,30,Inclusivity,83.33333333333334
+Lakshadweep,36,CWSN Toilet,23,Inclusivity,63.888888888888886
