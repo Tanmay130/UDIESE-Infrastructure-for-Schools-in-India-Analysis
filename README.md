@@ -1,4 +1,4 @@
-# UDIESE-Infrastructure-for-Schools-in-India-Analysis
+# UDISE-Infrastructure-for-Schools-in-India-Analysis
 This project analyzes the availability and quality of basic school infrastructure across India using data from UDISE+ (Unified District Information System for Education). The aim was to create a clear, interactive dashboard and a structured data story that highlight differences across states, school categories, management types, and rural–urban segments.
 
 Project Overview
